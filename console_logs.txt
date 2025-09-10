@@ -1,0 +1,9 @@
+# Console Logs
+
+## Login Page
+- [LOG] [AuthStore] No user authenticated
+- [LOG] reCAPTCHA verifier initialized
+- [WARNING] Switch is changing from uncontrolled to controlled
+- [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password")
+- [ERROR] Failed to load resource: the server responded with a status of 400 ()
+- [ERROR] Email login error: FirebaseError: Firebase: Error (auth/invalid-credential)
